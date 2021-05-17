@@ -1,0 +1,42 @@
+
+body{
+   
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+    background-image: linear-gradient(to right top, #00f718, #00f395, #00e8dd, #00d8ff, #00c4ff, #3db1f7, #5e9dea, #7689d8, #7170ca, #7156b9, #7437a4, #76008b);
+    
+}
+
+
+#container{
+   
+    width: 400px;
+    height: 200px;
+    
+    box-shadow: blue 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, rgb(255, 156, 85) 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, rgb(255, 85, 85) 40px -40px;
+    background-image: linear-gradient(to right top, #a900c6, #f60089, #ff374d, #ff8411, #dabc00, #c9d200, #ace900, #7aff00, #a2ff00, #c2ff00, #dfff00, #faff00);
+    
+}
+
+
+button{
+
+    width:50px;
+    height:50px;
+    margin:35px;
+
+}
+
+#purple__btn{
+    background-color: purple;
+}
+
+#green__btn{
+    background-color: green;
+}
+
+#yellow__btn{
+    background-color: yellow;
+}
